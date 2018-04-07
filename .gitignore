@@ -6,6 +6,8 @@ node_modules
 *test.re
 *backup
 *.log
+coverage/
+.coveralls.yml
 
 # Created by https://www.gitignore.io/api/macos
 
