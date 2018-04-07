@@ -18,6 +18,7 @@
   "scripts": {
     "build": "bsb -clean-world -make-world",
     "watch": "bsb -clean-world -make-world -w",
+    "watch:jest": "jest --coverage --watchAll",
     "fmt": "yarn prettier --write README.md",
     "test": "yarn run build && jest --coverage"
   },
