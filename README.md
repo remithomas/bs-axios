@@ -1,4 +1,4 @@
-# bs-axios [![npm version](https://img.shields.io/npm/v/bs-axios.svg?style=flat-square)](https://www.npmjs.com/package/bs-axios)
+# bs-axios [![npm version](https://img.shields.io/npm/v/bs-axios.svg?style=flat-square)](https://www.npmjs.com/package/bs-axios) [![Build Status](https://travis-ci.org/meafmira/bs-axios.svg?branch=master)](https://travis-ci.org/meafmira/bs-axios)
 
 [Axios](https://github.com/axios/axios) bindings for Bucklescript.
 
